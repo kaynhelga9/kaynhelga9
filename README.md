@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a Discord Bot for Azur Lane, a mobile game.
+🔭 I’m currently working on a Discord Bot for Azur Lane, a mobile gachagame.
 
-🌱 I’m currently learning Web Dev and Data Analysis.
+🌱 I’m currently learning Web Dev with React and Data Analysis with Pandas/MPL.
 
 💬 I like discussing about Azur Lane, other games, and coding with Python.
 
