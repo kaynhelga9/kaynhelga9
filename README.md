@@ -21,7 +21,21 @@ Here are some ideas to get you started:
 
 💬 I like discussing about Azur Lane, other games, and coding with Python.
 
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kaynhelga9&count_private=true&theme=react&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynhelga9&langs_count=5&theme=react)]()
+
+
+`print('i will be graduating from CSUEB in after Summer of 2021! :D')`
+
+
+📫 Contact me:
+[Email](mailto:khanhhp02@gmail.com)
+
+[Portfolio (WIP)]()
+
+[LinkedIn](https://www.linkedin.com/in/khanh-huynh-63008714a/)
+
+
 
