@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynhelga9&langs_count=5&theme=react)]()
 
 
-`print('i will be graduating from CSUEB in after Summer of 2021! :D')`
+`print('i will be graduating from CSUEB after Summer of 2021!')`
 
 
 📫 Contact me:
