@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 💬 I like discussing about Azur Lane, other games, and coding with Python.
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kaynhelga9&count_private=true&theme=react&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynhelga9&langs_count=5&theme=react)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kaynhelga9&count_private=true&theme=react&showicons=true)]() 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynhelga9&langs_count=5&theme=react)]()
 
 
 `print('i will be graduating from CSUEB after Summer of 2021!')`
