@@ -6,9 +6,6 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynhelga9&langs_count=5&theme=react)]()
 
 
-📫 Contact me:
-
-[Email](mailto:khanhhp02@gmail.com) | [Portfolio (WIP)]() | [LinkedIn](https://www.linkedin.com/in/khanh-huynh-63008714a/)
 
 
 
